@@ -1,0 +1,14 @@
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\bin\Debug\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi.exe.config
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\bin\Debug\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi.exe
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\bin\Debug\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi.pdb
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi.csproj.AssemblyReference.cache
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi_Taşımacılık_LTD.ŞTİ.AŞ_Yusuf_Çelebi.Form1.resources
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi_Taşımacılık_LTD.ŞTİ.AŞ_Yusuf_Çelebi.Properties.Resources.resources
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi.csproj.GenerateResource.cache
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi.csproj.CoreCompileInputs.cache
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi.exe
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi.pdb
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi_Taşımacılık_LTD.ŞTİ.AŞ_Yusuf_Çelebi.Form2.resources
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi_Taşımacılık_LTD.ŞTİ.AŞ_Yusuf_Çelebi.Form3.resources
+C:\Users\ultra\OneDrive\Masaüstü\Object Orianted Lab Project -Yusuf Çelebi\Çelebi Taşımacılık LTD.ŞTİ.AŞ-Yusuf Çelebi\obj\Debug\Çelebi_Taşımacılık_LTD.ŞTİ.AŞ_Yusuf_Çelebi.Form4.resources
